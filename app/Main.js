@@ -1,7 +1,8 @@
 import React, { useState, useReducer } from "react"
 import ReactDOM from "react-dom"
+import Header from "./components/Header"
 
 function Main() {
-  return <h3>hihi</h3>
+  return <Header />
 }
 ReactDOM.render(<Main />, document.querySelector("#app"))
