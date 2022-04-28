@@ -2,7 +2,7 @@
 
 # This is the React template for quick start project.
 
-To start the project
+To start the project by running the command
 
 npm run dev
 
